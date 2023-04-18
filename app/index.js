@@ -10,7 +10,7 @@ import {
 import { COLORS, icons, images, SIZES } from '../assets/theme';
 import { Stack, useRouter } from 'expo-router';
 
-//S
+//Sasdasd
 
 const Home = () => {
   return (
